@@ -8282,7 +8282,7 @@
         <entry key="SPyRO" value="" />
         <entry key="SQLAHelper" value="" />
         <entry key="SQLAWebtrends" value="" />
-        <entry key="SQLAlchemy" value="" />
+        <entry key="SQLAlchemy" value="1.1.3" />
         <entry key="SQLAlchemy-AutoSlug" value="" />
         <entry key="SQLAlchemy-Continuum" value="" />
         <entry key="SQLAlchemy-Dao" value="" />
@@ -8305,7 +8305,7 @@
         <entry key="SQLAlchemy-Sluggable" value="" />
         <entry key="SQLAlchemy-UTCDateTime" value="" />
         <entry key="SQLAlchemy-Utc" value="" />
-        <entry key="SQLAlchemy-Utils" value="" />
+        <entry key="SQLAlchemy-Utils" value="0.32.9" />
         <entry key="SQLAlchemy-Wrapper" value="" />
         <entry key="SQLAlchemy-boolean-search" value="" />
         <entry key="SQLAlchemy-i18n" value="" />
@@ -11069,7 +11069,7 @@
         <entry key="aioh2" value="" />
         <entry key="aiohdfs" value="" />
         <entry key="aiohipchat" value="" />
-        <entry key="aiohttp" value="" />
+        <entry key="aiohttp" value="1.0.5" />
         <entry key="aiohttp-apiset" value="" />
         <entry key="aiohttp-babel" value="" />
         <entry key="aiohttp-devtools" value="" />
@@ -17915,7 +17915,7 @@
         <entry key="charcoal" value="" />
         <entry key="chard" value="" />
         <entry key="chardb" value="" />
-        <entry key="chardet" value="" />
+        <entry key="chardet" value="2.3.0" />
         <entry key="chardet2" value="" />
         <entry key="chardetails" value="" />
         <entry key="chargebee" value="" />
@@ -36168,7 +36168,7 @@
         <entry key="fake-go-contacts" value="" />
         <entry key="fake-open" value="" />
         <entry key="fake-switches" value="" />
-        <entry key="fake-useragent" value="" />
+        <entry key="fake-useragent" value="0.1.2" />
         <entry key="fake2db" value="" />
         <entry key="fakeRPiGPIO" value="" />
         <entry key="fake_item_generator" value="" />
@@ -43631,7 +43631,7 @@
         <entry key="idlk" value="" />
         <entry key="idm" value="" />
         <entry key="idmbd" value="" />
-        <entry key="idna" value="" />
+        <entry key="idna" value="2.1" />
         <entry key="idncheck" value="" />
         <entry key="idncheck-old" value="" />
         <entry key="ido" value="" />
@@ -45546,7 +45546,7 @@
         <entry key="jdatetime" value="" />
         <entry key="jdb_nester" value="" />
         <entry key="jdbm" value="" />
-        <entry key="jdcal" value="" />
+        <entry key="jdcal" value="1.3" />
         <entry key="jdhp-distutils-demo" value="" />
         <entry key="jdhp-setuptools-demo" value="" />
         <entry key="jdpay" value="" />
@@ -53836,7 +53836,7 @@
         <entry key="multicpu" value="" />
         <entry key="multidevice" value="" />
         <entry key="multidex" value="" />
-        <entry key="multidict" value="" />
+        <entry key="multidict" value="2.1.2" />
         <entry key="multidimensional_urlencode" value="" />
         <entry key="multidispatch" value="" />
         <entry key="multidns" value="" />
@@ -58010,7 +58010,7 @@
         <entry key="openproximity-external-media" value="" />
         <entry key="openproximity-plugin-remotecontrol" value="" />
         <entry key="openproximity-plugin-test" value="" />
-        <entry key="openpyxl" value="" />
+        <entry key="openpyxl" value="2.4.0-b1" />
         <entry key="openquake.hazardlib" value="" />
         <entry key="openrange" value="" />
         <entry key="openre" value="" />
@@ -60721,7 +60721,7 @@
         <entry key="pioneer" value="" />
         <entry key="pioneeravclient" value="" />
         <entry key="pior" value="" />
-        <entry key="pip" value="" />
+        <entry key="pip" value="8.1.2" />
         <entry key="pip-Win" value="" />
         <entry key="pip-accel" value="" />
         <entry key="pip-autoremove" value="" />
@@ -73281,7 +73281,7 @@
         <entry key="requestions" value="" />
         <entry key="requeston" value="" />
         <entry key="requestry" value="" />
-        <entry key="requests" value="" />
+        <entry key="requests" value="2.11.1" />
         <entry key="requests-aeaweb" value="" />
         <entry key="requests-aliyun" value="" />
         <entry key="requests-auth-mashery" value="" />
@@ -73304,7 +73304,7 @@
         <entry key="requests-expects" value="" />
         <entry key="requests-facebook" value="" />
         <entry key="requests-facebook-py3" value="" />
-        <entry key="requests-file" value="" />
+        <entry key="requests-file" value="1.4.1" />
         <entry key="requests-foauth" value="" />
         <entry key="requests-forecast" value="" />
         <entry key="requests-ftp" value="" />
@@ -76552,7 +76552,7 @@
         <entry key="setupreader" value="" />
         <entry key="setuptize_me" value="" />
         <entry key="setuptool" value="" />
-        <entry key="setuptools" value="" />
+        <entry key="setuptools" value="28.7.0" />
         <entry key="setuptools-bower" value="" />
         <entry key="setuptools-ci" value="" />
         <entry key="setuptools-clonedigger" value="" />
@@ -77689,7 +77689,7 @@
         <entry key="siva" value="" />
         <entry key="sivart" value="" />
         <entry key="sivel-test" value="" />
-        <entry key="six" value="" />
+        <entry key="six" value="1.10.0" />
         <entry key="sixelplot" value="" />
         <entry key="sixelterm" value="" />
         <entry key="sixer" value="" />
@@ -83481,7 +83481,7 @@
         <entry key="tlcache" value="" />
         <entry key="tld" value="" />
         <entry key="tld_name" value="" />
-        <entry key="tldextract" value="" />
+        <entry key="tldextract" value="2.0.2" />
         <entry key="tldp" value="" />
         <entry key="tldr" value="" />
         <entry key="tldr.py" value="" />
