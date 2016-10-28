@@ -1,0 +1,12 @@
+<templateSet group="Python">
+  <template name="encod" value="# -*- coding: utf-8 -*-" description="set document's encoding" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="futur" value="from __future__ import unicode_literals" description="(import unicode_literals from __future__)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,25 +1,24 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 3.5.1+ virtualenv at ~/Bothub/venv" />
+      <name value="Python 2.7.10 (/usr/bin/python)" />
       <type value="Python SDK" />
-      <version value="Python 3.5.1+" />
-      <homePath value="$USER_HOME$/Bothub/venv/bin/python" />
+      <version value="Python 2.7.10" />
+      <homePath value="/usr/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/Bothub/venv/lib/python3.5" />
-            <root type="simple" url="file://$USER_HOME$/Bothub/venv/lib/python3.5/plat-x86_64-linux-gnu" />
-            <root type="simple" url="file://$USER_HOME$/Bothub/venv/lib/python3.5/lib-dynload" />
-            <root type="simple" url="file:///usr/lib/python3.5" />
-            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
-            <root type="simple" url="file://$USER_HOME$/Bothub/venv/lib/python3.5/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Bothub/venv/lib/python3.5/site-packages/pycurl-7.43.0-py3.5-linux-x86_64.egg" />
-            <root type="simple" url="file://$USER_HOME$/Bothub/venv/lib/python3.5/site-packages/django_extensions-1.7.1-py3.5.egg" />
-            <root type="simple" url="jar://$USER_HOME$/Bothub/venv/lib/python3.5/site-packages/pydotplus-2.0.2-py3.5.egg!/" />
-            <root type="simple" url="jar://$USER_HOME$/Bothub/venv/lib/python3.5/site-packages/pyparsing-2.1.6-py3.5.egg!/" />
-            <root type="simple" url="file://$USER_HOME$/Bothub/venv/lib/python3.5/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/1171193700" />
+            <root type="simple" url="jar:///Library/Python/2.7/site-packages/virtualenvwrapper-4.7.1-py2.7.egg!/" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/348993582" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
           </root>
         </classPath>
@@ -30,20 +29,22 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Python 3.5.1+ virtualenv at ~/Envs/venv" />
+      <name value="Python 2.7.10 virtualenv at ~/Envs/gnews_v1.0" />
       <type value="Python SDK" />
-      <version value="Python 3.5.1+" />
-      <homePath value="$USER_HOME$/Envs/venv/bin/python" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/Envs/gnews_v1.0/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/Envs/venv/lib/python3.5" />
-            <root type="simple" url="file://$USER_HOME$/Envs/venv/lib/python3.5/plat-x86_64-linux-gnu" />
-            <root type="simple" url="file://$USER_HOME$/Envs/venv/lib/python3.5/lib-dynload" />
-            <root type="simple" url="file:///usr/lib/python3.5" />
-            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
-            <root type="simple" url="file://$USER_HOME$/Envs/venv/lib/python3.5/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-2126512900" />
+            <root type="simple" url="file://$USER_HOME$/Envs/gnews_v1.0/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/Envs/gnews_v1.0/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/Envs/gnews_v1.0/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-838108477" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
           </root>
         </classPath>
@@ -54,20 +55,22 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Python 3.5.2 virtualenv at ~/Envs/banga_venv" />
+      <name value="Python 2.7.10 virtualenv at ~/Envs/news_maker" />
       <type value="Python SDK" />
-      <version value="Python 3.5.2" />
-      <homePath value="$USER_HOME$/Envs/banga_venv/bin/python" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/Envs/news_maker/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/Envs/banga_venv/lib/python3.5" />
-            <root type="simple" url="file://$USER_HOME$/Envs/banga_venv/lib/python3.5/plat-x86_64-linux-gnu" />
-            <root type="simple" url="file://$USER_HOME$/Envs/banga_venv/lib/python3.5/lib-dynload" />
-            <root type="simple" url="file:///usr/lib/python3.5" />
-            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
-            <root type="simple" url="file://$USER_HOME$/Envs/banga_venv/lib/python3.5/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/1050300902" />
+            <root type="simple" url="file://$USER_HOME$/Envs/news_maker/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/Envs/news_maker/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/Envs/news_maker/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/1965344781" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
           </root>
         </classPath>
@@ -78,21 +81,167 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Python 3.5.2 virtualenv at ~/Envs/kremen/venv" />
+      <name value="Python 3.5.0 virtualenv at ~/Envs/TDD" />
       <type value="Python SDK" />
-      <version value="Python 3.5.2" />
+      <version value="Python 3.5.0" />
+      <homePath value="$USER_HOME$/Envs/TDD/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Envs/TDD/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/Envs/TDD/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/Envs/TDD/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/Envs/TDD/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/2108104742" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 (ssh://ns@46.101.127.18:4899)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="ssh://ns@46.101.127.18:4899/home/ns/news_maker/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="46.101.127.18" PORT="4899" ANONYMOUS="false" USERNAME="ns" PASSWORD="dfefdfc6df9adfd8dfcbdfc3dfcedf92df8bdfecdf9bdfefdfd8df92dfd3dfc3dfeddf93dfdddfffdf93dfeadff9df9bdfcf" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/home/ns/news_maker/bin/python2.7" HELPERS_PATH="/home/ns/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.6" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 (ssh://vagrant@127.0.0.1:2222/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="ssh://vagrant@127.0.0.1:2222/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-1807332816/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-1807332816/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-1807332816/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-1807332816/-1227933812" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-1807332816/-125940560" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-1807332816" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="127.0.0.1" PORT="2222" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="dfdcdfcbdfcddfd8dfcbdfc4dfde" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.6">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-1807332816/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-1807332816/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-1807332816/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-1807332816/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-1807332816/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-1807332816/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-1807332816/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-1807332816/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-1807332816/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-1807332816/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/Envs/flaskapp" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/Envs/flaskapp/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/Envs/flaskapp/lib/python2.7/site-packages/distribute-0.7.3-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Envs/flaskapp/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/Envs/flaskapp/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/Envs/flaskapp/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/1517467991" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/Envs/django_jinja" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/Envs/django_jinja/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Envs/django_jinja/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/Envs/django_jinja/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/Envs/django_jinja/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/1787311747" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/Envs/gnews_v1.0 (1)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/Envs/gnews_v1.0/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Envs" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.0 virtualenv at ~/Envs/kremen/venv" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.0" />
       <homePath value="$USER_HOME$/Envs/kremen/venv/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
             <root type="simple" url="file://$USER_HOME$/Envs/kremen/venv/lib/python3.5" />
-            <root type="simple" url="file://$USER_HOME$/Envs/kremen/venv/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/Envs/kremen/venv/lib/python3.5/plat-darwin" />
             <root type="simple" url="file://$USER_HOME$/Envs/kremen/venv/lib/python3.5/lib-dynload" />
-            <root type="simple" url="file:///usr/lib/python3.5" />
-            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
             <root type="simple" url="file://$USER_HOME$/Envs/kremen/venv/lib/python3.5/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Envs/kremen/venv/lib/python3.5/site-packages/billiard-3.5.0.1-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1701806427" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/478388243" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
           </root>
         </classPath>
@@ -103,119 +252,20 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Python 2.7.11+ virtualenv at ~/Envs/fsdeploy" />
+      <name value="Python 3.5.0 virtualenv at ~/Envs/banga_price/venv" />
       <type value="Python SDK" />
-      <version value="Python 2.7.11+" />
-      <homePath value="$USER_HOME$/Envs/fsdeploy/bin/python" />
+      <version value="Python 3.5.0" />
+      <homePath value="$USER_HOME$/Envs/banga_price/venv/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/Envs/fsdeploy/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/Envs/fsdeploy/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/lib/python2.7" />
-            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
-            <root type="simple" url="file://$USER_HOME$/Envs/fsdeploy/local/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Envs/fsdeploy/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/898097567" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.5.2 virtualenv at ~/Envs/flasky/venv" />
-      <type value="Python SDK" />
-      <version value="Python 3.5.2" />
-      <homePath value="$USER_HOME$/Envs/flasky/venv/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/Envs/flasky/venv/lib/python3.5" />
-            <root type="simple" url="file://$USER_HOME$/Envs/flasky/venv/lib/python3.5/plat-x86_64-linux-gnu" />
-            <root type="simple" url="file://$USER_HOME$/Envs/flasky/venv/lib/python3.5/lib-dynload" />
-            <root type="simple" url="file:///usr/lib/python3.5" />
-            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
-            <root type="simple" url="file://$USER_HOME$/Envs/flasky/venv/lib/python3.5/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-192094125" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Envs/flasky" />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.12 virtualenv at ~/Envs/news_maker/venv" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.12" />
-      <homePath value="$USER_HOME$/Envs/news_maker/venv/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/Envs/news_maker/venv/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/Envs/news_maker/venv/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/lib/python2.7" />
-            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
-            <root type="simple" url="file://$USER_HOME$/Envs/news_maker/venv/local/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Envs/news_maker/venv/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/429295941" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.10 virtualenv at ~/Envs/pypy2" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.10" />
-      <homePath value="$USER_HOME$/Envs/pypy2/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/Envs/pypy2/lib_pypy" />
-            <root type="simple" url="file://$USER_HOME$/Envs/pypy2/lib-python/2.7" />
-            <root type="simple" url="file:///opt/pypy2/lib_pypy" />
-            <root type="simple" url="file:///opt/pypy2/lib-python/2.7" />
-            <root type="simple" url="file:///opt/pypy2/lib-python/2.7/plat-linux2" />
-            <root type="simple" url="file:///opt/pypy2/lib-python/2.7/lib-tk" />
-            <root type="simple" url="file://$USER_HOME$/Envs/pypy2/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-556816909" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.3.5 virtualenv at ~/Envs/pypy-env" />
-      <type value="Python SDK" />
-      <version value="Python 3.3.5" />
-      <homePath value="$USER_HOME$/Envs/pypy-env/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/Envs/pypy-env/lib_pypy" />
-            <root type="simple" url="file://$USER_HOME$/Envs/pypy-env/lib-python/3" />
-            <root type="simple" url="file:///opt/pypy3/lib_pypy" />
-            <root type="simple" url="file:///opt/pypy3/lib-python/3" />
-            <root type="simple" url="file:///opt/pypy3/lib-python/3/plat-linux" />
-            <root type="simple" url="file://$USER_HOME$/Envs/pypy-env/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1981713311" />
+            <root type="simple" url="file://$USER_HOME$/Envs/banga_price/venv/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/Envs/banga_price/venv/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/Envs/banga_price/venv/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/Envs/banga_price/venv/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/-1296729870" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
           </root>
         </classPath>
