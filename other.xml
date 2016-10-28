@@ -1,4 +1,20 @@
 <application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>
@@ -48,49 +64,64 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="PyCodeInsightSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FUNCTION" value="true" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
   </component>
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
-        <entry key="$USER_HOME$/Bothub/venv/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/banga_venv/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/fsdeploy/bin/python" value="false" />
+        <entry key="$USER_HOME$/Envs/TDD/bin/python3" value="true" />
+        <entry key="$USER_HOME$/Envs/banga_price/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Envs/flaskapp/bin/python" value="false" />
+        <entry key="$USER_HOME$/Envs/gnews_v1.0/bin/python" value="false" />
         <entry key="$USER_HOME$/Envs/kremen/venv/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/myproject/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/news_maker/venv/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/pypy-env/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/pypy2/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/sportnews/venv/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Envs/news_maker/bin/python" value="false" />
+        <entry key="$USER_HOME$/Envs/sportnewsru/bin/python" value="false" />
+        <entry key="$USER_HOME$/Envs/test_django/bin/python" value="false" />
+        <entry key="sftp://root@192.241.153.186:22/root/gnews/bin/python" value="false" />
+        <entry key="ssh://ns@192.241.153.186:4899/home/ns/gnews/bin/python" value="false" />
+        <entry key="ssh://ns@46.101.127.18:4899/home/ns/news_maker/bin/python2.7" value="false" />
+        <entry key="ssh://ns@46.101.128.174:4899/home/ns/news_maker/bin/python" value="false" />
+        <entry key="ssh://vagrant@127.0.0.1:2222/usr/bin/python" value="false" />
+        <entry key="vagrant:///Users/mk/Envs/vagrant_nm/usr/bin/python" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
-        <entry key="$USER_HOME$/Bothub/venv/bin/python" value="true" />
-        <entry key="$USER_HOME$/Envs/banga_venv/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/fsdeploy/bin/python" value="false" />
+        <entry key="$USER_HOME$/Envs/TDD/bin/python3" value="false" />
+        <entry key="$USER_HOME$/Envs/banga_price/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Envs/flaskapp/bin/python" value="false" />
+        <entry key="$USER_HOME$/Envs/gnews_v1.0/bin/python" value="false" />
         <entry key="$USER_HOME$/Envs/kremen/venv/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/myproject/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/news_maker/venv/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/pypy-env/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/pypy2/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/sportnews/venv/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Envs/news_maker/bin/python" value="false" />
+        <entry key="$USER_HOME$/Envs/sportnewsru/bin/python" value="false" />
+        <entry key="$USER_HOME$/Envs/test_django/bin/python" value="false" />
+        <entry key="sftp://root@192.241.153.186:22/root/gnews/bin/python" value="false" />
+        <entry key="ssh://ns@192.241.153.186:4899/home/ns/gnews/bin/python" value="false" />
+        <entry key="ssh://ns@46.101.127.18:4899/home/ns/news_maker/bin/python2.7" value="false" />
+        <entry key="ssh://ns@46.101.128.174:4899/home/ns/news_maker/bin/python" value="false" />
+        <entry key="ssh://vagrant@127.0.0.1:2222/usr/bin/python" value="true" />
+        <entry key="vagrant:///Users/mk/Envs/vagrant_nm/usr/bin/python" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
-        <entry key="$USER_HOME$/Bothub/venv/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/banga_venv/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/fsdeploy/bin/python" value="false" />
+        <entry key="$USER_HOME$/Envs/TDD/bin/python3" value="false" />
+        <entry key="$USER_HOME$/Envs/banga_price/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Envs/flaskapp/bin/python" value="false" />
+        <entry key="$USER_HOME$/Envs/gnews_v1.0/bin/python" value="false" />
         <entry key="$USER_HOME$/Envs/kremen/venv/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/myproject/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/news_maker/venv/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/pypy-env/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/pypy2/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/sportnews/venv/bin/python" value="false" />
-        <entry key="$USER_HOME$/Envs/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Envs/news_maker/bin/python" value="false" />
+        <entry key="$USER_HOME$/Envs/sportnewsru/bin/python" value="false" />
+        <entry key="$USER_HOME$/Envs/test_django/bin/python" value="false" />
+        <entry key="sftp://root@192.241.153.186:22/root/gnews/bin/python" value="false" />
+        <entry key="ssh://ns@192.241.153.186:4899/home/ns/gnews/bin/python" value="false" />
+        <entry key="ssh://ns@46.101.127.18:4899/home/ns/news_maker/bin/python2.7" value="false" />
+        <entry key="ssh://ns@46.101.128.174:4899/home/ns/news_maker/bin/python" value="false" />
+        <entry key="ssh://vagrant@127.0.0.1:2222/usr/bin/python" value="false" />
+        <entry key="vagrant:///Users/mk/Envs/vagrant_nm/usr/bin/python" value="false" />
       </map>
     </option>
   </component>
