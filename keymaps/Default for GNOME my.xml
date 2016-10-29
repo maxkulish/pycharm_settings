@@ -1,4 +1,4 @@
-<keymap version="1" name="Default for XWin copy 0" parent="Default for XWin">
+<keymap version="1" name="Default for GNOME my" parent="Default for GNOME">
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
