@@ -9,7 +9,7 @@
     <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="13" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
@@ -27,7 +27,6 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_MERGED" value="9876aa" />
     <option name="FILESTATUS_MODIFIED" value="6897bb" />
-    <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897bb" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897bb" />
     <option name="FILESTATUS_UNKNOWN" value="d1675a" />
@@ -106,15 +105,6 @@
         <option name="EFFECT_COLOR" value="dc322f" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value />
-    </option>
-    <option name="BASH.FUNCTION_CALL">
-      <value />
-    </option>
-    <option name="BASH.HERE_DOC">
-      <value />
     </option>
     <option name="BASH.HERE_DOC_END">
       <value>
@@ -753,9 +743,6 @@
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
-      <value />
-    </option>
-    <option name="DEFAULT_DOT">
       <value />
     </option>
     <option name="DEFAULT_ENTITY">
