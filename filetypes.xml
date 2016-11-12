@@ -6,6 +6,9 @@
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="bot_queries.py" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="biz" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
