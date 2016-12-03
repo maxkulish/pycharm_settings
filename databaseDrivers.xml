@@ -57,6 +57,18 @@
       <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="false" />
     </driver>
+    <driver id="4b958626-5e5a-4b5e-8789-e3608ff224c2" name="Django default driver" dialect="SQLite" driver-class="org.sqlite.JDBC" icon="AllIcons.Providers.Sqlite">
+      <url-template name="default" template="jdbc:sqlite:{file::identifier.sqlite}?" />
+      <artifact name="Xerial SQLiteJDBC" use="true" version="3.8.11.2" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-driver-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-9.4-1201.jdbc4.jar</url>
+      </library>
+    </driver>
     <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
       <artifact name="JTOpen (DB2 iSeries)" use="true" />
       <option name="auto-sync" value="false" />
