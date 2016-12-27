@@ -411,7 +411,7 @@
         <entry key="orange-app" value="1.0.1" />
         <entry key="orange3" value="3.3.6" />
         <entry key="ordereddict" value="1.1" />
-        <entry key="pandas" value="0.19.1" />
+        <entry key="pandas" value="0.19.2" />
         <entry key="pandas-datareader" value="0.2.1" />
         <entry key="pandasql" value="0.7.3" />
         <entry key="pandoc" value="1.15.2" />
@@ -5127,6 +5127,7 @@
               <option value="0.18.1" />
               <option value="0.19.1" />
               <option value="0.19.0" />
+              <option value="0.19.2" />
             </list>
           </value>
         </entry>
@@ -7966,6 +7967,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1482671247849" />
+    <option name="LAST_TIME_CHECKED" value="1482864760536" />
   </component>
 </application>
