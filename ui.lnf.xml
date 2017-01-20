@@ -1,7 +1,7 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value="Open Sans" />
-    <option name="FONT_SIZE" value="12" />
+    <option name="FONT_FACE" value="Ubuntu Light" />
+    <option name="FONT_SIZE" value="13" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
