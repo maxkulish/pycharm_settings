@@ -1,11 +1,11 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
   <option name="LINE_SPACING" value="1.1" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Hasklig" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
