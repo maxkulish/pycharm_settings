@@ -1,0 +1,27 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.5.2 ServerScript interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Env/ServerScript/venv/bin" />
+        <root url="file://$USER_HOME$/Env/NewScript" />
+        <root url="file:///usr/lib/python3.5" />
+        <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python3.5/lib-dynload" />
+        <root url="file://$USER_HOME$/Env/ServerScript/venv/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.3/system/python_stubs/5190255" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Env/ServerScript/venv/bin" />
+        <root url="file://$USER_HOME$/Env/NewScript" />
+        <root url="file:///usr/lib/python3.5" />
+        <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python3.5/lib-dynload" />
+        <root url="file://$USER_HOME$/Env/ServerScript/venv/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.3/system/python_stubs/5190255" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
