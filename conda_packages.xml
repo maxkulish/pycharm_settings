@@ -468,7 +468,7 @@
         <entry key="prompt_toolkit" value="1.0.9" />
         <entry key="protobuf" value="3.0.0" />
         <entry key="psqlodbc" value="09.03.0400" />
-        <entry key="psutil" value="5.0.1" />
+        <entry key="psutil" value="5.1.2" />
         <entry key="psycopg2" value="2.6.2" />
         <entry key="ptyprocess" value="0.5.1" />
         <entry key="py" value="1.4.32" />
@@ -5759,6 +5759,7 @@
               <option value="5.0.0" />
               <option value="4.4.2" />
               <option value="5.0.1" />
+              <option value="5.1.2" />
             </list>
           </value>
         </entry>
@@ -8157,6 +8158,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1486110609042" />
+    <option name="LAST_TIME_CHECKED" value="1486202110671" />
   </component>
 </application>
