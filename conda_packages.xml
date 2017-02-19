@@ -327,7 +327,7 @@
         <entry key="lighttpd" value="1.4.39" />
         <entry key="line_profiler" value="2.0" />
         <entry key="llvm" value="3.3" />
-        <entry key="llvmlite" value="0.15.0" />
+        <entry key="llvmlite" value="0.16.0" />
         <entry key="llvmmath" value="0.1.2" />
         <entry key="llvmpy" value="0.12.7" />
         <entry key="lmdb" value="0.9.18" />
@@ -404,7 +404,7 @@
         <entry key="nose-parameterized" value="0.5.0" />
         <entry key="nosexcover" value="1.0.11" />
         <entry key="notebook" value="4.3.1" />
-        <entry key="numba" value="0.30.1" />
+        <entry key="numba" value="0.31.0" />
         <entry key="numbapro" value="0.23.1" />
         <entry key="numbapro_cudalib" value="0.2" />
         <entry key="numexpr" value="2.6.2" />
@@ -562,7 +562,7 @@
         <entry key="redis-py" value="2.10.5" />
         <entry key="reportlab" value="3.3.0" />
         <entry key="repoze.lru" value="0.6" />
-        <entry key="requests" value="2.12.4" />
+        <entry key="requests" value="2.13.0" />
         <entry key="requests-file" value="1.4.1" />
         <entry key="requests-kerberos" value="0.8.0" />
         <entry key="responses" value="0.5.1" />
@@ -4249,6 +4249,7 @@
               <option value="0.13.0" />
               <option value="0.14.0" />
               <option value="0.15.0" />
+              <option value="0.16.0" />
             </list>
           </value>
         </entry>
@@ -5052,6 +5053,7 @@
               <option value="0.28.1" />
               <option value="0.30.0" />
               <option value="0.30.1" />
+              <option value="0.31.0" />
             </list>
           </value>
         </entry>
@@ -6746,6 +6748,7 @@
               <option value="2.12.0" />
               <option value="2.12.4" />
               <option value="2.12.3" />
+              <option value="2.13.0" />
             </list>
           </value>
         </entry>
@@ -8262,6 +8265,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1487321540410" />
+    <option name="LAST_TIME_CHECKED" value="1487521473701" />
   </component>
 </application>
