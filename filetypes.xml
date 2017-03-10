@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="temp" type="Native" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="core" type="PLAIN_TEXT" />
       <mapping pattern="bot_queries.py" type="PLAIN_TEXT" />
