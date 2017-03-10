@@ -4,5 +4,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="llog" value="logger.info(&quot;{header}[]{end}&quot;.format(**COLORS))" description="insert logger line" toReformat="false" toShortenFQNames="true" />
+  <template name="llog" value="logger.info(&quot;{header}[]{end}&quot;.format(**COLORS))" description="insert logger line" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
