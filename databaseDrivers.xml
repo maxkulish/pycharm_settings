@@ -33,12 +33,13 @@
       <artifact name="Xerial SQLiteJDBC" use="true" version="3.8.11.2" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
+      <property name="enable_load_extension" value="true" />
     </driver>
     <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="postgresql" name="PostgreSQL" dialect="PostgreSQL">
-      <artifact name="PostgreSQL" use="true" version="9.4-1201" />
+      <artifact name="PostgreSQL" use="true" version="9.4-1212" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
     </driver>
