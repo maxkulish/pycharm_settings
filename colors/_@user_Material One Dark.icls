@@ -4,7 +4,7 @@
     <property name="created">2017-10-25T23:04:58</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-11-01T12:43:06</property>
+    <property name="modified">2017-11-13T18:23:29</property>
     <property name="originalScheme">Material One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="11" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
