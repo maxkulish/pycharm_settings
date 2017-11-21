@@ -13,6 +13,9 @@
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="shift meta m" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
